@@ -1,0 +1,49 @@
+confidentiality, integrity, and availability
+
+corporate information security
+
+enterprise level 
+
+Application Security
+
+Technology Risk & Compliance
+
+Identity and Access Management
+
+Project Management
+
+Cyber Defence
+
+Engineering & Operations
+
+analysing, and interpreting qualitative and quantitative 
+
+cyber, 
+
+incident response and digital forensics, 
+
+security engineering, 
+
+security operations, 
+
+computer network operations,
+
+information operations, 
+
+information warfare, 
+
+topical cyber 
+
+Cyber security issues affecting the corporate environment 
+
+Common network and host security technologies and appliances 
+
+IAM and Security threats
+
+DB & application servers, 
+
+virtualisation, 
+
+network configuration & devices 
+
+Fundamental security and network concepts (intrusion/detection, TCP/IP, ports, etc.)

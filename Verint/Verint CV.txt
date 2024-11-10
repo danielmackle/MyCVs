@@ -1,0 +1,24 @@
+Why do you think you'd be a great candidate for Verint's placement?
+
+I am a very proficient coder in Java, C# and C++, and intermediate level with JavaScript. This is proven through my current University GPA of 4.0.
+I was the leader of a winning team in the QUB Sustainability Hackathon 2024.
+I am also highly qualified in communication, with a Grade 8 and additional Diploma in Speech and Drama.
+I have spent many hours perfecting personal projects, giving attention to detail and documentation.
+I have an love of AI and automation robotics, following the young industry.
+
+
+
+What previous experience have you gained that will help you in your placement at Verint?
+
+I am a passionate public speaker, both as a CyberFirst Ambassador and as a ChildNet Digital Champion, representing Computer Science in QUB.
+I was among the few who have completed the module Computer Science Challenges, where I created an RPA Automation project named 'ParameterisedVectorGraphicFaces', where I used  UI.Vision RPA to automate the production of a large image dataset of 3D posed faces from a 2D image input. 
+To produce the model, I automated the AI Model/Tool 'Face Transfer' by DAZ3D.
+
+
+
+How do you think this placement at Verint will help you in your future career?
+
+In the making of this application, I have gained a strong appreciation for Verint.
+I have researched your unique solutions, such as your Verint Intelligent Virtual Assistant, which optimises repetitive workflows, and your Verint Coaching Bot and Verint Quality Bot, which aid workers directly.
+I was also amazed by the many awards and accolades that Verint has secured, being ranked as multiple industry leaders.
+I now firmly believe that Verint would be the perfect placement to further my CS career.
